@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "RIDGEFALL",
+      "hasCanvas": true,
+      "bodyTextLen": 272,
+      "bodyTextHash": "d6262635033548fb068371e2d458786b6462ae8d5324f061b48f7e80dc862475",
+      "bodyTextPrefix": "OPEN WORLD RIDGEFALL Dusk over the industrial waterfront. Take a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "RIDGEFALL",
+      "hasCanvas": true,
+      "bodyTextLen": 272,
+      "bodyTextHash": "d6262635033548fb068371e2d458786b6462ae8d5324f061b48f7e80dc862475",
+      "bodyTextPrefix": "OPEN WORLD RIDGEFALL Dusk over the industrial waterfront. Take a",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
